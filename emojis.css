@@ -1,0 +1,29 @@
+body {
+    background-color:rgb(243, 243, 190);
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    color:darkgoldenrod;
+    text-transform: uppercase;
+  }
+  
+  p {
+    font-size: 200%;
+  }
+  
+  p.introduccion {
+    color: goldenrod;
+  }
+  
+  summary {
+    font-size: 400%;
+  }
+  
+  span.color1 {
+    background-color:rgb(220,170,170);
+  }
+  
+  span.color2 {
+    background-color:white;
+  }
